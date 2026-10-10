@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+nodejs/data/
+*.db
+.env
+dist/
+evaluator-private/
+coverage/
+
+# Markdown (keep only the root README)
+*.md
+!/README.md
